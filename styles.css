@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+body{
+	width:100vw;
+	height:100vh;
+	
+}
+p{
+	width:90vw;
+	height:2vh;
+}
+#yellow{
+	background-color:yellow;
+	border:1px solid green;
+	
+}
+#red{
+	background-color:red;
+	border:1px solid black;
+	
+}
+#green{
+	background-color:green;
+	border:1px solid yellow;
+	
+}
